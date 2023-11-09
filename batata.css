@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+.container{
+    backgroud-color: rgb(180, 7, 7)
+}
+
+div.container form{
+    border: 25px solid rgba(222, 250, 7, 0.89);
+    margin: 100px 50px 100px 50px;
+    padding: 100px 50px 100px 50px;
+}
